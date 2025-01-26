@@ -1,0 +1,1 @@
+This repository demonstrates a common issue encountered when using React Router Dom: unexpected routing behavior when navigating to a route that hasn't been explicitly defined. The issue manifests as either a blank page or a console error.  The solution involves adding the missing route to the Routes component.
